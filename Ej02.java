@@ -8,7 +8,7 @@ public class Ej02 {
         int num1 = sc.nextInt();
         boolean enRango = num1 < 10 && num1 > 0;
         System.out.println(enRango);
-        System.out.println("Introduce el segundo número");
+        System.out.println("Introduce el segundo número 23");
         int num2 = sc.nextInt();
         System.out.println("Introduce el tercer número");
         int num3 = sc.nextInt();
